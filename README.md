@@ -1,0 +1,2 @@
+# shadowsocks-script
+shadowsocks script
